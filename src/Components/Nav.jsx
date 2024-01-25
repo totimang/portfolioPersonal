@@ -48,7 +48,7 @@ const Nav = () => {
                                 <li className='hover:text-green-600 transition border-b-2 border-slate-900 hover:border-green-600 cursor-pointer'>Services</li>
                             </Link>
                             <Link spy={true} smooth={true} to='Projets'>
-                                <li className='hover:text-green-600 transition border-b-2 border-slate-900 hover:border-green-600 cursor-pointer'>Projets</li>
+                                <li className='hover:text-green-600 transition border-b-2 border-slate-900 hover:border-green-600 cursor-pointer'>Projects</li>
                             </Link>
                             <Link spy={true} smooth={true} to='Contact'>
                                 <li className='hover:text-green-600 transition border-b-2 border-slate-900 hover:border-green-600 cursor-pointer'>Contact</li>

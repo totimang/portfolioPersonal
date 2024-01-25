@@ -1,7 +1,7 @@
 const About = () => {
     return (
         <div id='About' className='lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg:text-start flex lg:flex-row flex-col justify-between lg:gap-28 items-center'>
-            <img data-aos='fade-down' src='https://i.ibb.co/hd8rNPQ/perfil.png' width={290} height={290} className='rounded border-2 p-1 border-green-500 img_glow' alt="" />
+            <img data-aos='fade-down' src='https://i.ibb.co/H4KDsCy/perfil2.png' width={290} height={290} className='rounded border-2 p-1 border-green-500 img_glow' alt="" />
                 <div className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white'>
                     <h1 data-aos='fade-right' className='text-[52px] font-semibold mb-8 leading-normal text-green-500 uppercase'>About me</h1>
                     <p data-aos='fade-left'>How about my name is Rodrigo, I am from Buenos Aires, Argentina. I love technology and sports.</p>

@@ -11,7 +11,7 @@ const Contact = () => {
     return (
         <div id='Contact' className='p-4 lg:p-20 flex flex-col items-center justify-center'>
             <h1 data-aos='fade-left' className='text-[52px] font-semibold mb-20 leading-normal uppercase text-green-500'>Contact Me</h1>
-            <form action="https://formsubmit.co/rod_martinez88@hotmail.com" method="POST" className='flex flex-col gap-2 lg:w-1/2'>
+            <form action="https://formspree.io/f/xnqejbyz" method="POST" className='flex flex-col gap-2 lg:w-1/2'>
                 <div className='lg:flex gap-10'>
                     <input className='w-full my-3 rounded-lg bg-slate-800 p-4 border-2 border-green-800 b_glow text-xl text-slate-500' placeholder='Enter Your Name' type="text" name='name' id='name'/>
                     <input className='w-full lg:my-3 my-6 rounded-lg bg-slate-800 p-4 border-2 border-green-800 b_glow text-xl text-slate-500' placeholder='Enter Your Email' type="email" name='email' id='email'/>
